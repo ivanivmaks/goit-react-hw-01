@@ -1,0 +1,21 @@
+.container img {
+  height: 100px;
+  width: 100px;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+  .online {
+  color: green;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.offline {
+  color: red;
+   font-size: 18px;
+  font-weight: 500;
+}
