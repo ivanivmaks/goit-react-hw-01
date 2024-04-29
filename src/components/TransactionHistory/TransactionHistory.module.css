@@ -1,0 +1,23 @@
+.table {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.header {
+  background-color: rgb(43, 32, 32);
+  font-weight: bold;
+  color: white;
+}
+
+th, td {
+  border: 1px solid black;
+   height: 30px;
+   width: 200px;
+   font-weight: 500;
+}
+
+tr:nth-child(2n){
+    background-color: rgb(196, 186, 186);
+}
